@@ -1,0 +1,54 @@
+- PyQt5 is a set of Python bindings for the Qt5 framework
+from Digia who's main website can be found here:
+www.riverbankcomputing.co.uk/news
+
+
+- PyQt5's classes are divided into several modules including the
+following:
+
+1) QtCore: Module that contains the core non-Gui functionality
+including working with time, files, directories, data types,
+streams, URLs, mime types, threads or processes.
+
+2) QtGui: Contains classes for windowing system integration,
+event handling, 2D graphics, basic imaging, fonts and text.
+
+3) QtWidgets: Contains classes which provide a set of UI elements
+to create classic desktop-style user interfaces. 
+
+4) QtMultimedia: Contains classes to handle multimedia content
+and APIs to access camera and radio functionality.
+
+5) QtBluetooth: Contains classes to scan for devices and connect
+and interact with them.
+
+6) QtNetwork: Contains classes for network programming.
+
+7) QtPositioning: Contains classes to determine a position in 
+any way necessary.
+
+8) Enginio: Implements the client-side library for accessing 
+Qt Cloud Services Managed Application Runtime.
+
+9) QtWebSockets: Contains classes that implement WebSocket Protocol.
+
+10) QtWebKit: Contains classes for a web browser implementation
+on the WebKit2 library.
+
+11) QtWebKitWidgets: Contains classes for a WebKit1 based 
+implementation of a web browser for use in QtWidgets based apps.
+
+12) QtXml: Contains classes for working with XML files.
+
+13) QtSvg: Contains clases for working with SVG files (Scalable
+ Vector Graphics.
+
+14) QtSql: Contains classes for working with databases.
+
+15) QtTest: Contains classes for working unit testing PyQt5 apps.
+
+
+
+- PyQt5 is NOT backwards compatible with PyQt4
+
+
